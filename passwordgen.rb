@@ -4,7 +4,7 @@ puts "Enter a name to your password: "
 
 name = gets.to_s.chomp
 
-puts "Your password will be store in the file named #{name}.txt."
+puts "Your password will store in the file named #{name}.txt."
 puts "Enter a number of symbols to your password: "
 
 symbols = gets.to_i
