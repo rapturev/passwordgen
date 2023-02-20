@@ -1,5 +1,5 @@
 puts "Hi!"
-puts "Your password will include letters in english and digits"
+puts "Your password will include letters of english alphabet and digits"
 puts "Enter a name to your password: "
 
 name = gets.to_s.chomp
